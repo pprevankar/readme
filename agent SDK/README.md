@@ -27,7 +27,7 @@ This is the official README file for the `@nice-ccf/agent-sdk` library. This age
 
 ## Installation
 
-```bash
+```
 npm install @nice-ccf/agent-sdk
 ```
 

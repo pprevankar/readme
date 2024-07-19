@@ -27,7 +27,7 @@ npm install @nice-ccf/auth-sdk
 * **Security:** Utilizes secure practices for code verifier generation and token storage (refer to best practices).
 * **Background Worker:** Leverages a background worker for token refresh monitoring (implementation details might vary).
 
-Peer Dependencies
+## Peer Dependencies
 
 This library relies on several peer dependencies, including:
 ```
@@ -40,7 +40,6 @@ Ensure these dependencies are also installed and configured correctly for proper
 
 Install the library:
 
-Bash
 ```
 npm install @nice-ccf/auth-sdk
 ```

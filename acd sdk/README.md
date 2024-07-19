@@ -20,19 +20,18 @@ This README file provides an overview of the @nice-ccf/acd-sdk library, a Node.j
 * **Notifications:** Receive ACD notifications based on the dependency on @nice-ccf/agent-sdk.
 * **Agent Details:** Retrieve agent details based on the presence of the agent-details service.
 
-Uncertainties
+## Uncertainties
 
 The exact functionalities and their implementation details might differ based on the use of the peer dependencies.
 The codebase (src/lib/acd) might reveal additional functionalities beyond what can be inferred from dependencies.
 
-Installation
+## Installation
 
-Bash
 ```
 npm install @nice-ccf/acd-sdk
 ```
 
-Usage
+## Usage
 
 1. **Import necessary modules:**
 ```
