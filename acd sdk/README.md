@@ -11,7 +11,7 @@
 
 This README file provides an overview of the @nice-ccf/acd-sdk library, a Node.js library that empowers developers to interact with Automatic Call Distribution (ACD) functionalities within their applications built for the NICE CXone platform.
 
-## Features (Likely)
+## Features
 
 * **ACD Engagement:** Start and end ACD sessions, manage agent state (available, unavailable, etc.).
 * **Contact Management:** Interact with voicemails, work items, and potentially other contact-related functionalities (to be confirmed with documentation).
