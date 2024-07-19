@@ -1,6 +1,6 @@
 # NICE CXone Agent SDK
 
-*  [Official SDK Documentation](https://help.nice-incontact.com/content/agent/cxoneagent/cxoneagent.htm?tocpath=Agents%7CCXone%20Agent%20%7C_____0).
+*  [Official SDK Documentation](https://help.nice-incontact.com/content/agent/cxoneagent/cxoneagent.htm?tocpath=Agents%7CCXone%20Agent%20%7C_____0)
 *  [NPM package](https://www.npmjs.com/package/@nice-ccf/agent-sdk)
 *  [Sample Web App](https://github.com/nice-cxone/webapp-acd-cxagent-sdk-consumer)
 
