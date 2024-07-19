@@ -5,7 +5,7 @@
 
 ## Requirements
 *  TypeScript **4.9**
-*  Runtime: **ES2022** (`WebSocket`, `Intl`, `Promise`, `EventTarget`, CustomEvent`, `JSON`, `Date`, etc.)
+*  Runtime: **ES2022** (`WebSocket`, `Intl`, `Promise`, `EventTarget`, `CustomEvent`, `JSON`, `Date`, etc.)
 *  Custom application bundler (webpack, create-react-app, etc.)
 
 
